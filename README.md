@@ -25,7 +25,7 @@
 |Fitzpatrick17k                                                     |https://github.com/mattgroh/fitzpatrick17k                                             |16,577 clinical images with diagnosis and Fitzpatrick scale labels                          |
 |HAM10000                                                           |https://www.nature.com/articles/sdata2018161                                           |                                                                                           |
 |Hellenic Derm Atlas                                                |http://www.hellenicdermatlas.com/en                                                    |                                                                                           |
-|ISIC Archive[^1]                                                               |https://isic-archive.com/                                                              |See below                                                                                  |
+|ISIC Archive<a name="isicfootnote"><sup>1</sup></a>                                                               |https://isic-archive.com/                                                              |See below                                                                                  |
 |Monkeypox-dataset-2022 [Ahsan et al.]                              |https://github.com/mahsan2/Monkeypox-dataset-2022                                      |                                                                                           |
 |Monkeypox Skin Image Dataset 2022 [Islam et al.]                   |https://www.kaggle.com/datasets/arafathussain/monkeypox-skin-image-dataset-2022                |                                                                                           |
 |MedMNIST                                                           |https://medmnist.com                                                                   |DermaMNIST. a subset of MedMNIST, contains skin images                                   |
@@ -44,7 +44,7 @@
 |XiangyaDerm                                                        |http://airl.csu.edu.cn/xiangyaderm/                                                    |                                                                                           |
 
 
-[^1] The Gallery section of the ISIC Archive includes the following datasets:
+<sup>[1](#isicfootnote)</sup> The Gallery section of the ISIC Archive includes the following datasets:
 
 - 2018 JID Editorial Images (100 images)
 - Dermoscopedia (CC-BY) (5 images)
